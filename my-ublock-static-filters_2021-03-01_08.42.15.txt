@@ -1,0 +1,27 @@
+! 2
+
+! 2021-03-01 https://www.youtube.com
+www.youtube.com##.ytd-playlist-panel-renderer.style-scope.header
+www.youtube.com##.ytd-playlist-panel-renderer.style-scope.playlist-items
+www.youtube.com###secondary > .ytd-watch-flexy.style-scope
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-small.style-suggestive.ytd-button-renderer.style-scope
+www.youtube.com##.yt-view-count-renderer.style-scope.view-count
+www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint > .style-text.ytd-toggle-button-renderer.style-scope
+www.youtube.com###button > .ytd-button-renderer.style-scope
+www.youtube.com##ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
+www.youtube.com###button > .ytd-menu-renderer.style-scope
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
+www.youtube.com##.ytd-comments-header-renderer.style-scope.count-text > span.yt-formatted-string.style-scope
+www.youtube.com##.yt-dropdown-menu.style-scope.dropdown-trigger
+||yt3.ggpht.com/a/default-user=s48-c-k-c0x00ffffff-no-rj$image
+www.youtube.com###simple-box > .ytd-comments-header-renderer.style-scope
+www.youtube.com###sentiment
+www.youtube.com###secondary
+www.youtube.com###header > .ytd-item-section-renderer.style-scope
+www.youtube.com##ytd-expander.ytd-video-secondary-info-renderer.style-scope
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
+www.youtube.com###endpoint > .ytd-guide-entry-renderer.style-scope
+www.youtube.com###button > .ytd-app.style-scope
+www.youtube.com###guide-icon
+www.youtube.com###guide-button
+
