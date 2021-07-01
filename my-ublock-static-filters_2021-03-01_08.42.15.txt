@@ -25,3 +25,5 @@ www.youtube.com###button > .ytd-app.style-scope
 www.youtube.com###guide-icon
 www.youtube.com###guide-button
 
+! 2021-06-28 https://www.youtube.com
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
